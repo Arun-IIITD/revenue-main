@@ -1,0 +1,6 @@
+python -m streamlit run app.py
+
+
+
+Generate `requirements.txt`:
+python -m pigar generate
